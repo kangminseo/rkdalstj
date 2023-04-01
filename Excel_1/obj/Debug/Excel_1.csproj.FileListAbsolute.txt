@@ -1,0 +1,12 @@
+C:\Users\ksmcs\source\repos\Excel_1\Excel_1\bin\Debug\Excel_1.exe.config
+C:\Users\ksmcs\source\repos\Excel_1\Excel_1\bin\Debug\Excel_1.exe
+C:\Users\ksmcs\source\repos\Excel_1\Excel_1\bin\Debug\Excel_1.pdb
+C:\Users\ksmcs\source\repos\Excel_1\Excel_1\obj\Debug\Excel_1.csproj.AssemblyReference.cache
+C:\Users\ksmcs\source\repos\Excel_1\Excel_1\obj\Debug\Excel_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\ksmcs\source\repos\Excel_1\Excel_1\obj\Debug\Excel_1.csproj.ResolveComReference.cache
+C:\Users\ksmcs\source\repos\Excel_1\Excel_1\obj\Debug\Excel_1.Form1.resources
+C:\Users\ksmcs\source\repos\Excel_1\Excel_1\obj\Debug\Excel_1.Properties.Resources.resources
+C:\Users\ksmcs\source\repos\Excel_1\Excel_1\obj\Debug\Excel_1.csproj.GenerateResource.cache
+C:\Users\ksmcs\source\repos\Excel_1\Excel_1\obj\Debug\Excel_1.csproj.CoreCompileInputs.cache
+C:\Users\ksmcs\source\repos\Excel_1\Excel_1\obj\Debug\Excel_1.exe
+C:\Users\ksmcs\source\repos\Excel_1\Excel_1\obj\Debug\Excel_1.pdb
