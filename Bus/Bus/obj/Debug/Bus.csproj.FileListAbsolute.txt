@@ -1,0 +1,11 @@
+C:\Users\ksmcs\source\repos\Bus\Bus\bin\Debug\Bus.exe.config
+C:\Users\ksmcs\source\repos\Bus\Bus\bin\Debug\Bus.exe
+C:\Users\ksmcs\source\repos\Bus\Bus\bin\Debug\Bus.pdb
+C:\Users\ksmcs\source\repos\Bus\Bus\obj\Debug\Bus.csproj.AssemblyReference.cache
+C:\Users\ksmcs\source\repos\Bus\Bus\obj\Debug\Bus.csproj.SuggestedBindingRedirects.cache
+C:\Users\ksmcs\source\repos\Bus\Bus\obj\Debug\Bus.Properties.Resources.resources
+C:\Users\ksmcs\source\repos\Bus\Bus\obj\Debug\Bus.csproj.GenerateResource.cache
+C:\Users\ksmcs\source\repos\Bus\Bus\obj\Debug\Bus.csproj.CoreCompileInputs.cache
+C:\Users\ksmcs\source\repos\Bus\Bus\obj\Debug\Bus.exe
+C:\Users\ksmcs\source\repos\Bus\Bus\obj\Debug\Bus.pdb
+C:\Users\ksmcs\source\repos\Bus\Bus\obj\Debug\Bus.FindBus.resources
